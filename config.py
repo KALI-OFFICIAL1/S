@@ -41,7 +41,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
-API_URL = getenv("API_URL", 'https://xyz.spotifytech.shop') #youtube song url
+API_URL = getenv("API_URL", 'xyz.spotifytech.shop') #youtube song url
 API_KEY = getenv("API_KEY", "7d033f4f2d842bf34f82e88b01d17e64") # youtube song api key, 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/otploothub")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/frozentools")
