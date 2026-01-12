@@ -44,7 +44,7 @@ GIT_TOKEN = getenv(
 
 API_URL = getenv("API_URL", 'https://api.nexgenbots.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.nexgenbots.xyz')
-API_KEY = getenv("30DxNexGenBotsdd6391", None) # youtube song api key,
+API_KEY = getenv("30DxNexGenBotsfd7e6d", None) # youtube song api key,
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/frozentools")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/tmm_support_chat")
